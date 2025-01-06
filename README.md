@@ -27,7 +27,7 @@ and some others for data generation and code logic.
 ## Installation
 To run the project, ensure you have Python installed and clone this repository:<br>
 ```bash
-  git clone https://github.com/LaibaZaffar/seating-plan-generator.git 
+  git clone https://github.com/LaibaZaffar/Seating-Plan-Generator.git
   cd seating-plan-generator
 ```
 ## Install the required libraries
